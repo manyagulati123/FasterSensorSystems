@@ -1,0 +1,25 @@
+<root><Image UniqueID="1503584638900"><Time>10:23:58</Time><Date>2017-08-24</Date><SoftwareVersion>Python 3.5</SoftwareVersion><Classification><First_Coder><Multifeed> </Multifeed><NumOfPieces> </NumOfPieces><BoxesPresent> </BoxesPresent><BagsPresent> </BagsPresent></First_Coder><Second_Coder><Multifeed> </Multifeed><NumOfPieces> </NumOfPieces><BoxesPresent> </BoxesPresent><BagsPresent> </BagsPresent></Second_Coder></Classification><SensorInformation Name="Ensenso"><Error>Some sensor details missing</Error></SensorInformation><SensorInformation Name="Kinect"><SerialNumber>015192365147
+</SerialNumber><FirmwareVersion>4.0.3916.0
+</FirmwareVersion><IPAddress>NA
+</IPAddress><USBPort>Bus 004 Device 004
+</USBPort><Exposure>Color: 30.879562377929688 Depth: 0.0 IR: 0.0
+</Exposure><Gain>Color: 1.0006256103515625 Depth: 0.0 IR: 0.0
+</Gain></SensorInformation><SensorInformation Name="GigE 1"><SerialNumber>17165115
+</SerialNumber><FirmwareVersion>0xa000105
+</FirmwareVersion><IPAddress>1702.2.1.0
+</IPAddress><USBPort>0
+</USBPort><Exposure>N/A
+</Exposure><Gain>N/A
+</Gain></SensorInformation><SensorInformation Name="GigE 2"><SerialNumber>17165148
+</SerialNumber><FirmwareVersion>0xa000207
+</FirmwareVersion><IPAddress>1702.2.1.0
+</IPAddress><USBPort>0
+</USBPort><Exposure>N/A
+</Exposure><Gain>N/A
+</Gain></SensorInformation><SensorInformation Name="GigE 3"><SerialNumber>17165153
+</SerialNumber><FirmwareVersion>0xa000306
+</FirmwareVersion><IPAddress>1702.2.1.0
+</IPAddress><USBPort>0
+</USBPort><Exposure>N/A
+</Exposure><Gain>N/A
+</Gain></SensorInformation></Image></root>

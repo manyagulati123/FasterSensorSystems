@@ -1,0 +1,142 @@
+[Info] [Freenect2Impl] enumerating devices...
+[Info] [Freenect2Impl] 15 usb devices connected
+[Info] [Freenect2Impl] found valid Kinect v2 @4:3 with serial 015192365147
+[Info] [Freenect2Impl] found 1 devices
+[Info] [Freenect2DeviceImpl] opening...
+[Info] [Freenect2DeviceImpl] transfer pool sizes rgb: 20*16384 ir: 60*8*33792
+[Info] [Freenect2DeviceImpl] opened
+[Info] [Freenect2DeviceImpl] starting...
+[Debug] [Freenect2DeviceImpl] status 0x090000: 9729
+[Debug] [Freenect2DeviceImpl] status 0x090000: 9731
+[Info] [Freenect2DeviceImpl] submitting rgb transfers...
+[Info] [Freenect2DeviceImpl] submitting depth transfers...
+[Info] [Freenect2DeviceImpl] started
+Application build date: Aug  9 2017 14:42:33
+
+[Debug] [RgbPacketStreamParser] skipping rgb packet!
+[Debug] [RgbPacketStreamParser] skipping rgb packet!
+Number of cameras detected: 3
+
+Init Camera:0
+
+
+*** DEVICE INFORMATION ***
+
+DeviceID : 17165115
+DeviceSerialNumber : 17165115
+DeviceVendorName : Point Grey Research
+DeviceModelName : Blackfly S BFS-PGE-50S5C
+DeviceType : GEV
+DeviceDisplayName : Point Grey Research
+DeviceAccessStatus : ReadWrite
+GUIXMLLocation : Device
+GUIXMLPath : Input.xml
+GenICamXMLLocation : Device
+GenICamXMLPath : 
+GevCCP : ControlAccess
+GevDeviceIPAddress : 0xa000105
+GevDeviceSubnetMask : 0xffffff00
+GevDeviceMACAddress : 0x2cdda305eb3b
+GevDeviceGateway : 0xa000101
+DeviceLinkSpeed : 1000
+DeviceVersion : 1702.2.1.0
+DeviceDriverVersion : none : 0.0.0.0
+DeviceUserID : 
+GevVersionMajor : 1
+GevVersionMinor : 2
+GevDeviceModeIsBigEndian : 1
+GevDeviceReadAndWriteTimeout : 100000
+GevDeviceMaximumRetryCount : 3
+GevDevicePort : 0
+Software trigger chosen...
+Trigger mode turned back on...
+
+Acquisition mode set to continuous...
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.9212ms -> ~62.8095Hz
+Init Camera:1
+
+
+*** DEVICE INFORMATION ***
+
+DeviceID : 17165148
+DeviceSerialNumber : 17165148
+DeviceVendorName : Point Grey Research
+DeviceModelName : Blackfly S BFS-PGE-50S5C
+DeviceType : GEV
+DeviceDisplayName : Point Grey Research
+DeviceAccessStatus : ReadWrite
+GUIXMLLocation : Device
+GUIXMLPath : Input.xml
+GenICamXMLLocation : Device
+GenICamXMLPath : 
+GevCCP : ControlAccess
+GevDeviceIPAddress : 0xa000207
+GevDeviceSubnetMask : 0xffffff00
+GevDeviceMACAddress : 0x2cdda305eb5c
+GevDeviceGateway : 0xa000202
+DeviceLinkSpeed : 1000
+DeviceVersion : 1702.2.1.0
+DeviceDriverVersion : none : 0.0.0.0
+DeviceUserID : 
+GevVersionMajor : 1
+GevVersionMinor : 2
+GevDeviceModeIsBigEndian : 1
+GevDeviceReadAndWriteTimeout : 100000
+GevDeviceMaximumRetryCount : 3
+GevDevicePort : 0
+Software trigger chosen...
+Trigger mode turned back on...
+
+Acquisition mode set to continuous...
+Init Camera:2
+
+
+*** DEVICE INFORMATION ***
+
+DeviceID : 17165153
+DeviceSerialNumber : 17165153
+DeviceVendorName : Point Grey Research
+DeviceModelName : Blackfly S BFS-PGE-50S5C
+DeviceType : GEV
+DeviceDisplayName : Point Grey Research
+DeviceAccessStatus : ReadWrite
+GUIXMLLocation : Device
+GUIXMLPath : Input.xml
+GenICamXMLLocation : Device
+GenICamXMLPath : 
+GevCCP : ControlAccess
+GevDeviceIPAddress : 0xa000306
+GevDeviceSubnetMask : 0xffffff00
+GevDeviceMACAddress : 0x2cdda305eb61
+GevDeviceGateway : 0xa000303
+DeviceLinkSpeed : 1000
+DeviceVersion : 1702.2.1.0
+DeviceDriverVersion : none : 0.0.0.0
+DeviceUserID : 
+GevVersionMajor : 1
+GevVersionMinor : 2
+GevDeviceModeIsBigEndian : 1
+GevDeviceReadAndWriteTimeout : 100000
+GevDeviceMaximumRetryCount : 3
+GevDevicePort : 0
+Software trigger chosen...
+Trigger mode turned back on...
+
+Acquisition mode set to continuous...
+Initialization before the loop 5.005727529525757
+1503580769.1551626
+1503580769155
+2017-08-24 09:19:29
+['2017-08-24', '09:19:29']
+09.19.29
+2017-08-24_09.19.29
+Starting part of the while loop: 6.67572021484375e-05
+Press 'Enter' to trigger the acquisition of images or 'q' to Quit
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 16.0462ms -> ~62.3199Hz
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.9717ms -> ~62.6106Hz
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.2601ms -> ~65.5302Hz
+[Debug] [RgbPacketStreamParser] skipping rgb packet!
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.7804ms -> ~63.3698Hz
+[Debug] [RgbPacketStreamParser] skipping rgb packet!
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.7017ms -> ~63.6875Hz
+[Info] [TurboJpegRgbPacketProcessor] avg. time: 15.5459ms -> ~64.3258Hz
